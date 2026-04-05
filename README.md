@@ -103,25 +103,6 @@ learning
 
 ---
 
-## ⚠️ Important Note
-
-Make sure these files are present:
-
-* `next_word_lstm.h5`
-* `tokenizer.pickle`
-
-Otherwise, the project will not run.
-
----
-
-## 🔧 Future Improvements
-
-* Improve accuracy with more data
-* Add multiple word suggestions
-* Create better UI
-* Deploy the project online
-
----
 
 ## 👨‍💻 Author
 
