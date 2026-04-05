@@ -1,5 +1,6 @@
-# Next Word Prediction using LSTM 
- 
-This project predicts the next word using LSTM neural networks. 
- 
-Run using: streamlit run app.py 
+## 🧠 Next Word Prediction App
+
+This project uses LSTM to predict the next word in a sequence.
+
+### 📸 Demo
+![App Screenshot](app_demo.png)
